@@ -1,6 +1,6 @@
 # SeekPassword-Windows
 
-**[English](README.md)** ｜ **[2019年科学且免费的复合密码管理策略-少数派](https://sspai.com/post/55403)**
+**[English](README.md)** ｜ **[Android客户端](https://github.com/takuron/SeekPassword-Android)** ｜ **[2019年科学且免费的复合密码管理策略-少数派](https://sspai.com/post/55403)**
 
 SeekPassword（觅密）是一个受到“花密”工具启发而制作的网页 https://wsine.github.io/seekpassword/  。此项目为基于此网页，利用HTML Compiler改造而成的Windows客户端。
 
